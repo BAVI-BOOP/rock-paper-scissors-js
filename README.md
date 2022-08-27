@@ -31,7 +31,7 @@ The challenge is to create a game with javascript skills.
 ### Screenshot
 
 <p align="center">
-<a href="https://bavi-boop.github.io/rock-paper-scissors-js/"><img src="rps.gif" alt="screenshot" width="720" height="620"></a>
+<a href="https://bavi-boop.github.io/rock-paper-scissors-js/"><img src="rps.gif" alt="screenshot" width="720" height="420"></a>
 </p>
 
 
