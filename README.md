@@ -41,12 +41,14 @@ The challenge is to create a game with javascript skills.
 
 ### Skeleton
 ```
-  team-members-page(folder)
+  rock-paper-scissors-js
+(folder)
 |
 |----readme.md        
 |----/assets # Contains hand shaped        
 |----index.html  
-|----style.css   
+|----style.css 
+|----main.js
         
 ```
 ## My process
